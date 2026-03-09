@@ -1,6 +1,6 @@
 # GoFundMe — TCP Fundraising Application
 
-A multithreaded client-server fundraising application built in Java using TCP sockets. Multiple clients can connect to a single server simultaneously and interact with a shared list of fundraising events in real time. This project 
+A multithreaded client-server fundraising application built in Java using TCP sockets. Multiple clients can connect to a single server simultaneously and interact with a shared list of fundraising events in real time.
 
 ---
 
